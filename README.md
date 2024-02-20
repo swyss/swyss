@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**swyss/swyss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
+I'm a developer deeply engrossed in Data Science and Fullstack Development, constantly exploring the synergies between data and design to create impactful solutions.
 
-Here are some ideas to get you started:
+#### Expertise
+- Languages: C#, Java, JavaScript
+- Favorite Frameworks: Vue, Quasar, Avalonia, Spring Boot, ASP.NET
+- Domains: Data Science, Fullstack Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### About My Work
+While I may not share code directly here, my profile serves as a canvas for my technical musings, project overviews, and the philosophies that guide my development approach.
+
+#### Let's Connect
+Interested in tech discussions, collaborations, or just want to talk about the latest in web and software development? I'm all ears! Reach out and let's start a conversation.
