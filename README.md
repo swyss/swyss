@@ -24,19 +24,28 @@ Here's a list of technologies I frequently use in my projects:
 ## Projects
 
 ### 🎶 SonicFlow
-Description: A music player application designed to deliver a seamless audio experience.
-Tech Stack: Built with Avalonia for the UI and ASP.NET for backend services, leveraging MongoDB for data persistence.
-IDE: Developed in JetBrains Rider, utilizing its powerful features for a smooth development process.
+#### Description
+A music player application designed to deliver a seamless audio experience.
+#### Tech Stack
+Built with Avalonia for the UI and ASP.NET for backend services, leveraging MongoDB for data persistence.
+#### IDE
+Developed in JetBrains Rider, utilizing its powerful features for a smooth development process.
 
 ### 🛒 FusionBasar
-Description: A webshop created as a showcase project, demonstrating a modern e-commerce platform.
-Tech Stack: Crafted using Spring for the backend and Quasar (Vue) for a responsive frontend, with PostgreSQL managing the data.
-IDE: Developed with IntelliJ IDEA, taking advantage of its comprehensive support for web development.
+#### Description
+A webshop created as a showcase project, demonstrating a modern e-commerce platform.
+#### Tech Stack
+Crafted using Spring for the backend and Quasar (Vue) for a responsive frontend, with PostgreSQL managing the data.
+#### IDE
+Developed with IntelliJ IDEA, taking advantage of its comprehensive support for web development.
 
 ### 🏡 DomotiNex
-Description: An Android app developed for my Home Automation Service (HAS), aimed at enhancing smart home interactions.
-Tech Stack: Developed for Android, focusing on performance and user experience.
-IDE: IntelliJ IDEA is the development environment of choice, providing a robust platform for Android development.
+#### Description
+An Android app developed for my Home Automation Service (HAS), aimed at enhancing smart home interactions.
+#### Tech Stack
+Developed for Android, focusing on performance and user experience.
+#### IDE
+IntelliJ IDEA is the development environment of choice, providing a robust platform for Android development.
 
 ## Let's Connect
 Interested in tech discussions, collaborations, or just want to talk about the latest in web and software development? I'm all ears! Reach out and let's start a conversation.
