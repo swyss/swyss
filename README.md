@@ -58,7 +58,5 @@ IntelliJ IDEA is the development environment of choice, providing a robust platf
 [extern (atlassian) - git](https://www.atlassian.com/git/tutorials/setting-up-a-repository)
 
 
-
-
 ## 💬 Let's Connect
 Interested in tech discussions, collaborations, or just want to talk about the latest in web and software development? I'm all ears! Reach out and let's start a conversation.
