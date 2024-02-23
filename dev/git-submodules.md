@@ -30,7 +30,7 @@ git status
 
 5. **update and commit**
 ```console
-git git add .
+git add .
 git commit -m "Add GitHub submodule"
 ```
 
