@@ -3,7 +3,7 @@
 Welcome to my GitHub profile!
 I'm a developer deeply engrossed in Data Science and Fullstack Development, constantly exploring the synergies between data and design to create impactful solutions.
 
-## Technologies & Tools
+## ⚒️ Technologies & Tools
 
 Here's a list of technologies I frequently use in my projects:
 
@@ -21,7 +21,7 @@ Here's a list of technologies I frequently use in my projects:
   - [JetBrains Rider](https://www.jetbrains.com/rider/) - A cross-platform .NET IDE.
   - [IntelliJ IDEA](https://www.jetbrains.com/idea/) - The Java IDE for Professional Developers by JetBrains.
 
-## Projects
+## 🚀 Projects
 
 ### 🎶 SonicFlow
 #### Description
@@ -47,7 +47,7 @@ Developed for Android, focusing on performance and user experience.
 #### IDE
 IntelliJ IDEA is the development environment of choice, providing a robust platform for Android development.
 
-## Tutorial
+## 🔖 Tutorials
 
 ### git
 
@@ -60,5 +60,5 @@ IntelliJ IDEA is the development environment of choice, providing a robust platf
 
 
 
-## Let's Connect
+## 💬 Let's Connect
 Interested in tech discussions, collaborations, or just want to talk about the latest in web and software development? I'm all ears! Reach out and let's start a conversation.
