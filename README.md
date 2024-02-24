@@ -51,11 +51,19 @@ IntelliJ IDEA is the development environment of choice, providing a robust platf
 
 ### git
 
+#### general
+
 [intern - git](./dev/git_readme.md)
+
+[extern (atlassian) - git](https://www.atlassian.com/git/tutorials/setting-up-a-repository)
+
+#### submodules
 
 [intern - git submodules](./dev/git-submodules.md)
 
-[extern (atlassian) - git](https://www.atlassian.com/git/tutorials/setting-up-a-repository)
+#### gitflow
+
+[extern (atlassian) - gitflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
 
 
 ## 💬 Let's Connect
