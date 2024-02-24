@@ -15,10 +15,8 @@ git status
 > check if everything is ok
 
 3. **add a submodule**
-> create a folder in repo then:
-
+> no need for creating folder (git submodule add, will do it for you)
 ```console
-cd <submodule-folder-path>
 git submodule add <repository-url> 
 ```
 > repository-url is needed -> create a git-repo first
