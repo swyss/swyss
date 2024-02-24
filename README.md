@@ -65,6 +65,10 @@ IntelliJ IDEA is the development environment of choice, providing a robust platf
 
 [extern (atlassian) - gitflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
 
+#### conventions
+
+[extern - Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)
+
 
 ## 💬 Let's Connect
 Interested in tech discussions, collaborations, or just want to talk about the latest in web and software development? I'm all ears! Reach out and let's start a conversation.
