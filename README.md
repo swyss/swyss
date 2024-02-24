@@ -47,7 +47,7 @@ Developed for Android, focusing on performance and user experience.
 #### IDE
 IntelliJ IDEA is the development environment of choice, providing a robust platform for Android development.
 
-## 🔖 Tutorials
+## 🔖 Compendium
 
 ### git
 
