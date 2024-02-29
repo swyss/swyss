@@ -67,6 +67,8 @@ IntelliJ IDEA is the development environment of choice, providing a robust platf
 
 #### conventions
 
+[intern - Extended Git Commit Concept](./dev/git_ExtendedGitCommit.md)
+
 [extern - Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)
 
 
