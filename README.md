@@ -22,6 +22,9 @@ Here's a list of technologies I frequently use in my projects:
 - **IDEs:**
   - [JetBrains Rider](https://www.jetbrains.com/rider/) - A cross-platform .NET IDE.
   - [IntelliJ IDEA](https://www.jetbrains.com/idea/) - The Java IDE for Professional Developers by JetBrains.
+- **Tools:**
+  - [Docker](https://www.docker.com/) - Docker is a set of platform as a service (PaaS) products that use OS-level virtualization to deliver software in packages called containers..
+  - [Jenkins](https://www.jetbrains.com/idea/) - Jenkins is an open source automation server. 
 
 ## 👾 Stats
 
