@@ -9,7 +9,7 @@ I'm a developer deeply engrossed in Data Science and Fullstack Development, cons
 
 Here's a list of technologies I frequently use in my projects:
 
-- **Languages:** [C#](https://docs.microsoft.com/en-us/dotnet/csharp/), [Java](https://www.oracle.com/java/), [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- **Languages:** [C#](https://docs.microsoft.com/en-us/dotnet/csharp/), [Java](https://www.oracle.com/java/), [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript), [python](https://www.python.org/)
 - **Frameworks/Libraries:**
   - [Avalonia](https://avaloniaui.net/) - A cross-platform XAML-based UI framework.
   - [ASP.NET](https://dotnet.microsoft.com/en-us/apps/aspnet) - A framework for building web apps and services with .NET and C#.
