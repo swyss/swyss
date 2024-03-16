@@ -9,7 +9,18 @@ I'm a developer deeply engrossed in Data Science and Fullstack Development, cons
 
 Here's a list of technologies I frequently use in my projects:
 
-- **Languages:** [C#](https://docs.microsoft.com/en-us/dotnet/csharp/), [Java](https://www.oracle.com/java/), [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript), [python](https://www.python.org/)
+- **Languages:**
+
+![Python](https://img.shields.io/badge/Python-13801b?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-13801b?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/Cs-13801b?style=for-the-badge&logo=csharp&logoColor=white)
+![VisualBasic](https://img.shields.io/badge/VisualBasic-13801b?style=for-the-badge&logo=visualbasic&logoColor=white)
+
+![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
+
 - **Frameworks/Libraries:**
   - [Avalonia](https://avaloniaui.net/) - A cross-platform XAML-based UI framework.
   - [ASP.NET](https://dotnet.microsoft.com/en-us/apps/aspnet) - A framework for building web apps and services with .NET and C#.
