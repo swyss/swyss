@@ -3,7 +3,24 @@
 Welcome to my GitHub profile!
 I'm a developer deeply engrossed in Data Science and Fullstack Development, constantly exploring the synergies between data and design to create impactful solutions.
 
-👉 https://swyss.github.io/
+there is more 👉 https://swyss.github.io/
+
+
+🤙
+<!-- <ul>
+    <li> <a href="https://github.com/uller-dev" class="github-link">
+            <img src="Assets/github_icon.png" alt="GitHub" class="github-icon">
+            GitHub/uller
+        </a></li>
+        <li> <a href="https://github.com/uller-dev" class="github-link">
+            <img src="Assets/github_icon.png" alt="Instagram" class="instagram-icon">
+            Instagram
+        </a></li>
+        <li> <a href="https://github.com/uller-dev" class="github-link">
+            <img src="Assets/X_icon.png" alt="X" class="github-icon">
+            X/uller
+        </a></li>
+</ul> -->
 
 ## ⚒️ Technologies & Tools
 
