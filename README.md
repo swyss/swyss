@@ -124,4 +124,4 @@ IntelliJ IDEA is the development environment of choice, providing a robust platf
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=swyss&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=swyss)
