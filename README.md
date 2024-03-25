@@ -58,7 +58,7 @@ Here's a list of technologies I frequently use in my projects:
   - > [SWE](https://github.com/swyss/Software-Engineering)
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=swyss&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=swyss&show_icons=true&theme=radical)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=swyss&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=swyss&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
