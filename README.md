@@ -54,6 +54,8 @@ Here's a list of technologies I frequently use in my projects:
 - **Tools:**
   - [Docker](https://www.docker.com/) - Docker is a set of platform as a service (PaaS) products that use OS-level virtualization to deliver software in packages called containers..
   - [Jenkins](https://www.jetbrains.com/idea/) - Jenkins is an open source automation server. 
+- **Software-Engineering:**
+  - > [SWE](https://github.com/swyss/Software-Engineering)
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=swyss&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
