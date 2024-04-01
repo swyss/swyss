@@ -57,7 +57,6 @@ Here's a list of technologies I frequently use in my projects:
 - **Software-Engineering:**
   - > [SWE](https://github.com/swyss/Software-Engineering)
 - **Templates:**
-  - > 
 
 ## 📊 GitHub Stats:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=swyss&show_icons=true&theme=dark)<br/>
