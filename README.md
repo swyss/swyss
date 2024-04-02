@@ -57,6 +57,9 @@ Here's a list of technologies I frequently use in my projects:
 - **Software-Engineering:**
   - > [SWE](https://github.com/swyss/Software-Engineering)
 - **Templates:**
+- **ShowCases:**
+    - > [MyPy](https://github.com/swyss/MyPy) - My Python Cake
+    - > [BobTheBot](https://github.com/swyss/BobTheBot) - My Python Bot 
 
 ## 📊 GitHub Stats:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=swyss&show_icons=true&theme=dark)<br/>
