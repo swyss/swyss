@@ -5,6 +5,8 @@ I'm a developer deeply engrossed in Data Science and Fullstack Development, cons
 
 there is more 👉 https://swyss.github.io/
 
+📧 contact me @: swyss.github@gmail.com
+
 
 🤙 Beyond my passion for data and design, my professional journey is anchored in the world of automation, where I apply my expertise as an Electrical Engineer in process automation. Balancing the precision of engineering with the creativity of software development, I bring a unique perspective to every project, marrying the disciplines to innovate and solve complex challenges.
 
