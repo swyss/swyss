@@ -64,6 +64,9 @@ Here's a list of technologies I frequently use in my projects:
     - > [BobTheBot](https://github.com/swyss/BobTheBot) - My Python Bot
 - **🔖 Compendium**
     - > [intern - git](./dev/git_readme.md)
+      > 
+## 📊 GitHub Trophy:
+[![trophy](https://github-profile-trophy.vercel.app/?username=swyss&theme=onedark)](https://github.com/swyss/github-profile-trophy)
 
 ## 📊 GitHub Stats:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=swyss&show_icons=true&theme=dark&count_private=true)<br/>
