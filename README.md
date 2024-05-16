@@ -65,7 +65,7 @@ Here's a list of technologies I frequently use in my projects:
 - **🔖 Compendium**
     - > [intern - git](./dev/git_readme.md)
       > 
-## 📊 GitHub Trophy:
+## 🏆 GitHub Trophy:
 [![trophy](https://github-profile-trophy.vercel.app/?username=swyss&theme=onedark)](https://github.com/swyss/github-profile-trophy)
 
 ## 📊 GitHub Stats:
