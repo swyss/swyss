@@ -59,6 +59,12 @@ Here's a list of technologies I frequently use in my projects:
   - > [SWE](https://github.com/swyss/Software-Engineering)
 - **Templates:**
   - >
+- **Best Js-Packages:**
+  - > [momentjs](https://momentjs.com/) - Parse, validate, manipulate, and display dates and times in JavaScript.
+  - > [pinia.vuejs](https://pinia.vuejs.org/) - Type Safe, Extensible, and Modular by design. Forget you are even using a store.
+  - > [FLOW](https://flow.org/) - FLOW IS A STATIC TYPE CHECKER FOR JAVASCRIPT.
+  - > [lodash](https://lodash.com/) - A modern JavaScript utility library delivering modularity, performance & extras.
+  - > [dotenvx](https://dotenvx.com/) - a better dotenv–from the creator of
 - **ShowCases:**
     - > [MyPy](https://github.com/swyss/MyPy) - My Python Cake
     - > [BobTheBot](https://github.com/swyss/BobTheBot) - My Python Bot
